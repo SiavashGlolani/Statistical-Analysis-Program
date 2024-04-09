@@ -1,3 +1,9 @@
+/*
+ * File: UniformTest.cpp
+ * Author: Siavash Glolani
+ * Description: This file contains the implementation of the UniformTest class, which is a subclass of Test.
+ */
+
 #include "UniformTest.h"
 #include <iostream>
 #include <algorithm>
