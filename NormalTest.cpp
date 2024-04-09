@@ -1,5 +1,5 @@
 /*
- * File: NormalTest.h
+ * File: NormalTest.cpp
  * Author: Siavash Glolani
  * Description: This file contains the implementation of the NormalTest class, which is a subclass of the Test class.
  * It provides methods to perform statistical analysis on a vector of numbers generated from a normal distribution.
