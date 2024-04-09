@@ -1,3 +1,9 @@
+/*
+ * File: UniformTest.h
+ * Author: Siavash Glolani
+ * Description: This file contains the declaration of the UniformTest class, which is a subclass of Test.
+ */
+
 #pragma once
 #include <vector>
 #include <iostream>
