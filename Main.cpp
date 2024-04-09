@@ -1,4 +1,13 @@
-﻿#include <nana/gui.hpp>
+/*
+ * File: main.cpp
+ * Author: Siavash Glolani
+ * Description: This file contains the main entry point for the statistics analysis program.
+ * It defines GUI components such as labels, buttons, and text boxes for user interaction.
+ * Event handlers for button clicks are also defined to perform uniform and normal distribution tests based on user input.
+ * Additionally, it outputs the results of the tests including minimum, maximum, mean, median, and histogram of the generated numbers.
+ */
+
+#include <nana/gui.hpp>
 #include <nana/gui/widgets/label.hpp>
 #include <nana/gui/widgets/button.hpp>
 #include <nana/gui/widgets/textbox.hpp>
