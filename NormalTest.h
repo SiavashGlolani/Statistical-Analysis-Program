@@ -1,3 +1,9 @@
+/*
+ * File: NormalTest.h
+ * Author: Siavash Glolani
+ * Description: This file contains the declaration of the NormalTest class, which is a subclass of the Test class.
+ * It defines methods to perform statistical analysis on a vector of numbers generated from a normal distribution.
+ */
 
 #pragma once
 #include <vector>
