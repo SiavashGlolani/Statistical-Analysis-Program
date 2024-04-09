@@ -1,3 +1,10 @@
+/*
+ * File: Test.cpp
+ * Author: Siavash Glolani
+ * Description: This file contains the implementation of the Test class constructor.
+ * It generates random numbers according to a specified distribution and sorts them.
+ */
+
 #include "Test.h"
 #include <iostream>
 #include <vector>
