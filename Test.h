@@ -1,3 +1,8 @@
+/*
+ * File: Test.h
+ * Author: Siavash Glolani
+ * Description: This file defines the Test class, which serves as an abstract base class for statistical tests.
+ */
 
 #pragma once
 #include <vector>
